@@ -1,0 +1,50 @@
+[
+  {
+    "\ufeffid": "1",
+    "name": "Asha Rao",
+    "department": "Engineering",
+    "salary": 72000
+  },
+  {
+    "\ufeffid": "2",
+    "name": "Ben Carter",
+    "department": "Support",
+    "salary": 48000
+  },
+  {
+    "\ufeffid": "3",
+    "name": "Chitra Iyer",
+    "department": "Engineering",
+    "salary": 55000
+  },
+  {
+    "\ufeffid": "4",
+    "name": "Dev Patel",
+    "department": "Sales",
+    "salary": 61000
+  },
+  {
+    "\ufeffid": "5",
+    "name": "Elena Gomez",
+    "department": "HR",
+    "salary": 39000
+  },
+  {
+    "\ufeffid": "6",
+    "name": "Farid Khan",
+    "department": "Engineering",
+    "salary": 85000
+  },
+  {
+    "\ufeffid": "7",
+    "name": "Grace Lee",
+    "department": "Marketing",
+    "salary": 50000
+  },
+  {
+    "\ufeffid": "8",
+    "name": "Hari Nair",
+    "department": "Finance",
+    "salary": 53000
+  }
+]
